@@ -26,6 +26,6 @@ Get free api from [OpenWeatherApi.org](https://openweathermap.org/api)
 # To run the program
 ## Click on the link [weather-app](https://vickyprinz.github.io/weather-app/)
 
-## Author:[Victor Kariuki](https://github.com/Vickyprinz)
-## License: ISC
-## Feedback: You can reach me on my [Email](kariukivictor315@gmail.com)
+### Author:[Victor Kariuki](https://github.com/Vickyprinz)
+### License: ISC
+### Feedback: You can reach me on my [Email](kariukivictor315@gmail.com)
