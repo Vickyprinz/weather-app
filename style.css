@@ -12,3 +12,22 @@ body{
     min-height: 100vh;
     background: #43AFFC;
 }
+::selection{
+    color: #fff;
+    background: #43AFFC;
+  }
+  .wrapper{
+    width: 400px;
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
+  }
+  .wrapper header{
+    display: flex;
+    font-size: 21px;
+    font-weight: 500;
+    color: #43AFFC;
+    padding: 16px 15px;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+  }
