@@ -160,3 +160,38 @@ body{
     justify-content: space-between;
     border-top: 1px solid #ccc;
   }
+  .bottom-details .column{
+    display: flex;
+    width: 100%;
+    padding: 15px 0;
+    align-items: center;
+    justify-content: center;
+  }
+  .column i{
+    color: #5DBBFF;
+    font-size: 40px;
+  }
+  .column.humidity{
+    border-left: 1px solid #ccc;
+  }
+  .column .details{
+    margin-left: 3px;
+  }
+  .details .temp, .humidity span{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: -3px;
+  }
+  .details .temp .deg{
+    margin: 0;
+    font-size: 17px;
+    padding: 0 2px 0 1px;
+  }
+  .column .details p{
+    font-size: 14px;
+    margin-top: -6px;
+  }
+  .humidity i{
+    font-size: 37px;
+  }
+  
