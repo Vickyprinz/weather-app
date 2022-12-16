@@ -5,13 +5,18 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
 body{
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #43AFFC;
+    /* background:linear-gradient (#43AFFC,); */
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(#43AFFC,#675AFE);
 }
+
 ::selection{
     color: #fff;
     background: #43AFFC;
